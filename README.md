@@ -113,7 +113,6 @@ Hosting on https also lets desktop notifications work reliably. Progress saved o
 - Plain HTML, CSS and JavaScript in a single file
 - Pixel art drawn at runtime on `<canvas>` from small character maps
 - `localStorage` for saves, Notification API for alerts, Web Audio for sounds
-- Fonts: Sora and Plus Jakarta Sans
 
 ## Project structure
 
